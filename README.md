@@ -1,3 +1,3 @@
 # Portfolio_Tshepo
 
-This a repo for my website 
+This a repo for myportfolio using HTML and CSS grid.
